@@ -8,7 +8,7 @@ const About = () => {
   const [width] = WindowSize();
   const img =
     width < 650
-      ? "https://media-exp1.licdn.com/dms/image/C4E03AQF1TgzK1-djBw/profile-displayphoto-shrink_400_400/0/1647675196680?e=1652918400&v=beta&t=Vs3P8oEgamlsvTJ5PdDpj02mgZu1NQftxHHCDYVudlQ" // my Picture
+      ? "https://drive.google.com/file/d/1W_pHSu348E8v8ddluvFQ-uACReThUqlt/view?usp=drivesdk" // my Picture
       : "https://cdn2.careeraddict.com/uploads/article/58447/illustration-woman-desk-computers.jpg";
   return (
     <div
